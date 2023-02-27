@@ -1,0 +1,14 @@
+C:\ERP301SABAH\19-KatmanlıMimari\KatmaniMimari\KatmaniMimari.Dto\bin\Debug\net6.0\KatmaniMimari.Dto.deps.json
+C:\ERP301SABAH\19-KatmanlıMimari\KatmaniMimari\KatmaniMimari.Dto\bin\Debug\net6.0\KatmaniMimari.Dto.runtimeconfig.json
+C:\ERP301SABAH\19-KatmanlıMimari\KatmaniMimari\KatmaniMimari.Dto\bin\Debug\net6.0\KatmaniMimari.Dto.dll
+C:\ERP301SABAH\19-KatmanlıMimari\KatmaniMimari\KatmaniMimari.Dto\bin\Debug\net6.0\KatmaniMimari.Dto.pdb
+C:\ERP301SABAH\19-KatmanlıMimari\KatmaniMimari\KatmaniMimari.Dto\obj\Debug\net6.0\KatmaniMimari.Dto.csproj.AssemblyReference.cache
+C:\ERP301SABAH\19-KatmanlıMimari\KatmaniMimari\KatmaniMimari.Dto\obj\Debug\net6.0\KatmaniMimari.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\ERP301SABAH\19-KatmanlıMimari\KatmaniMimari\KatmaniMimari.Dto\obj\Debug\net6.0\KatmaniMimari.Dto.AssemblyInfoInputs.cache
+C:\ERP301SABAH\19-KatmanlıMimari\KatmaniMimari\KatmaniMimari.Dto\obj\Debug\net6.0\KatmaniMimari.Dto.AssemblyInfo.cs
+C:\ERP301SABAH\19-KatmanlıMimari\KatmaniMimari\KatmaniMimari.Dto\obj\Debug\net6.0\KatmaniMimari.Dto.csproj.CoreCompileInputs.cache
+C:\ERP301SABAH\19-KatmanlıMimari\KatmaniMimari\KatmaniMimari.Dto\obj\Debug\net6.0\KatmaniMimari.Dto.dll
+C:\ERP301SABAH\19-KatmanlıMimari\KatmaniMimari\KatmaniMimari.Dto\obj\Debug\net6.0\refint\KatmaniMimari.Dto.dll
+C:\ERP301SABAH\19-KatmanlıMimari\KatmaniMimari\KatmaniMimari.Dto\obj\Debug\net6.0\KatmaniMimari.Dto.pdb
+C:\ERP301SABAH\19-KatmanlıMimari\KatmaniMimari\KatmaniMimari.Dto\obj\Debug\net6.0\KatmaniMimari.Dto.genruntimeconfig.cache
+C:\ERP301SABAH\19-KatmanlıMimari\KatmaniMimari\KatmaniMimari.Dto\obj\Debug\net6.0\ref\KatmaniMimari.Dto.dll
